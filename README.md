@@ -1,4 +1,4 @@
-# Wave Height Prediction Using LSTM
+# Ocean Wave Height Prediction with LSTM
 
 This project uses an LSTM (Long Short-Term Memory) neural network to predict significant wave height (`wave_ht_sig`) based on various environmental variables, including wind speed, air pressure, air temperature, and surface temperature. The goal is to develop a model that forecasts wave heights accurately, which is valuable for marine safety, navigation, and oceanographic research.
 
